@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you reference this category architecture, please cite it as below."
+title: "Art Holds What Time Takes: Category Architecture & Framework Repository"
+type: dataset
+authors:
+  - family-names: Hersberger
+    given-names: Ela
+version: 1.0.0
+date-released: 2025-01-01
+url: "https://github.com/ElaHersberger/art-holds-what-time-takes"
+abstract: >
+  The canonical repository for Art Holds What Time Takes. Contains the proprietary framework (The Visible Love Practice), category claim, and structural architecture that transforms fleeting moments into permanent, visible evidence of family belonging through faith-guided artistic care.
+keywords:
+  - "Family Artwork"
+  - "Heirloom Art"
+  - "Emotional Care"
+  - "Visible Love"
+  - "Legacy Preservation"
+  - "Artist of Hope and Healing"
+license: CC-BY-NC-ND-4.0
