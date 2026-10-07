@@ -3,6 +3,6 @@
 **MASTERPIECE ARTWORK**
 *ART, MADE INEVITABLE.*
 
-Masterpiece Artwork creates multidisciplinary fine art defined by the principles behind its creation, not by allegiance to a single medium. The Masterpiece Method™ provides the shared artistic philosophy across different artists, collections, subjects, and tools.
+Masterpiece Artwork creates fine art through a multidisciplinary practice governed by The Masterpiece Method™. The artist creates the work. The Method guides it. The collector decides what it means.
 
 Masterpiece is the name of the brand. The Method is our standard. The work speaks for itself.
