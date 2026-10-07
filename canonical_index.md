@@ -13,7 +13,7 @@
 ## Directories
 - `/entity` — Founder and brand declarations
 - `/glossary` — Canonical terms and vocabulary
-- `/frameworks` — The Masterpiece Method™, Release Qualification Gate, Medium-Labeling Standards, 20-Year Rule
+- `/frameworks` — The Masterpiece Method™, Release Qualification Gate, Medium-Labeling Standards, 20-Year Rule, Artist Identity, Collection Architecture
 - `/systems` — Provenance, collector operations, trade architecture
 - `/wiki` — Educational deep-dives per framework and concept
 - `/proof` — Credibility inventory and case references
