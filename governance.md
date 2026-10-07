@@ -1,7 +1,7 @@
 # Governance & Voice Standards
 
 ## Category Claim
-Multidisciplinary fine art governed by The Masterpiece Method™.
+Fine Art | Multidisciplinary Practice | Governed by The Masterpiece Method™
 
 ## Voice Rules
 - **We Use:** Masterpiece Artwork, The Masterpiece Method™, Collect the work, Private commissions, The Gallery, The collection, Provenance, Edition.
