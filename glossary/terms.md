@@ -7,5 +7,5 @@
 - **The Gallery / The Archive / The Collection** — Canonical structural terms.
 - **Provenance / Edition** — Canonical documentation terms.
 - **The medium serves the work** — Core medium philosophy.
-- **Art, Made Inevitable** — Brand line.
+- **ART, MADE INEVITABLE** — Brand line.
 - **Art holds what time takes** — Commission philosophy.
